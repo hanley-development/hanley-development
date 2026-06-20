@@ -7,8 +7,11 @@
 </p>
 
 
-I build and operate reliable systems, automation, and home lab infrastructure.  
-Most of my work lives where SRE, DevOps, observability, Windows/Linux operations, and practical platform engineering overlap.
+I build and operate reliable systems, automation, and home lab infrastructure. Most of my work sits where SRE, DevOps, observability, Windows/Linux operations, and practical platform engineering overlap.
+
+By day, I work in site reliability at Oracle Health, focused on stability, operational visibility, incident reduction, automation, and helping teams turn repeatable work into safer systems.
+
+Outside of work, I run Hanley Development as a home lab and learning space for infrastructure projects: Proxmox, Docker, Traefik, Authentik, Cloudflare, Home Assistant, monitoring, secure remote access, and AI/developer tooling.
 
 ## What I Work On
 
@@ -44,3 +47,15 @@ Most of my work lives where SRE, DevOps, observability, Windows/Linux operations
 - Building safer automation patterns for Windows, Linux, and Docker
 - Turning troubleshooting notes into reusable runbooks
 - Improving AI-assisted development workflows
+
+## How I Think About Systems
+
+Good infrastructure should be understandable under stress. I like tools and runbooks that make the next failure easier to diagnose, the next deployment less risky, and the next person less dependent on tribal knowledge.
+
+I care about:
+
+- clear operational signals
+- boring, repeatable automation
+- documentation that matches reality
+- secure defaults without unnecessary ceremony
+- teaching what I learn as I go
